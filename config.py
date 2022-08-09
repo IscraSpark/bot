@@ -1,4 +1,4 @@
-TOKEN = 'OTcyNDA3NjE2MjUwNzIwMzE2.GN7sW3.7LF5a0wIb_6vHT3jLovSB2NWxSJCmDMRbcI8dg'
+TOKEN = ''
 
 COMMANDS = {
     'note': ' [name]: [text] введите название и текст чтобы создать заметку',

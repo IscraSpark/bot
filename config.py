@@ -1,5 +1,5 @@
 TOKEN = 'TOKEN'
-MONGO_TOKEN = 'mongodb+srv://Iscra:blackwolf999@cluster0.noqz5gz.mongodb.net/?retryWrites=true&w=majority'
+MONGO_TOKEN = 'mongo_token'
 
 COMMANDS = {
     'note': ' [name]: [text] введите название и текст чтобы создать заметку',

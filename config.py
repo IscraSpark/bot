@@ -1,4 +1,4 @@
-TOKEN = 'OTcyNDA3NjE2MjUwNzIwMzE2.GN7sW3.7LF5a0wIb_6vHT3jLovSB2NWxSJCmDMRbcI8dg'
+TOKEN = 'TOKEN'
 MONGO_TOKEN = 'mongodb+srv://Iscra:blackwolf999@cluster0.noqz5gz.mongodb.net/?retryWrites=true&w=majority'
 
 COMMANDS = {
